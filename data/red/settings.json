@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "315960765112647690",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        ";"
+    ],
+    "TOKEN" : "NDY1MjM1NTk1MTkxNjQ4MjU2.DiKkkA.bptk_5ejvUUxtq2lfovuvqa1ETU",
+    "default" : {
+        "ADMIN_ROLE" : "Twistters#3384",
+        "MOD_ROLE" : "0",
+        "PREFIXES" : []
+    }
+}
